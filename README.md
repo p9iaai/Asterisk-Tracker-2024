@@ -1,4 +1,4 @@
-# Asterisk Tracker - JavaScript One-liner (2024)
+# Asterisk Tracker - JavaScript One-Liner (2024)
 
 A modern JavaScript recreation of the classic 1984 BBC BASIC one-liner game "Asterisk Tracker", maintaining the spirit of the original single-line implementation.
 
