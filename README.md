@@ -122,7 +122,3 @@ Math.abs(s.y-y)<8       // (smaller numbers = tighter collisions)
 ```
 setInterval(..., 16)    // Game update interval (16ms = ~60fps)
 ```
-
-## License
-
-Feel free to use and modify as you wish!
